@@ -1,5 +1,6 @@
 
-<h1 align="center">▫Code Girls▫ </h1> 
+# ▫Santander Code Girls<img width="64" alt="java" src="https://user-images.githubusercontent.com/100375234/178126041-b607da6a-baf2-41e9-9723-546b1af23957.png">
+
   
 
  ![GitHub Org's stars](https://img.shields.io/github/stars/carolgazulha?style=social)
@@ -10,9 +11,7 @@ Este repositório foi criado com intuito de compartilhar toda a trilha de aprend
 
  #### Objetivo do Bootcamp: 
 
- * Aprender a desenvolver projetos em uma linguagem back-end.
-
- * Resolver algoritmos tendo um aprendizado completo da teoria à prática.
+ * Aprender a desenvolver projetos na linguagem Java.
  
  * 2 desafios de código 
 
@@ -42,7 +41,7 @@ ____
 |Número |Desafio                       |Resolução     | Entrega  |
 |------ |------------------------------|------------  |--------- |
 | 01    |  Intervalo                   |   💻 Aqui    |         |
-| 02    |  Multiplos de 13             |   💻 Aqui    |         |
+| 02    |  Dominó                      |   💻 Aqui    |   ✔    |
 | 03    |  Seleção de indice do vetor  |   💻 Aqui    |         |
 
 
