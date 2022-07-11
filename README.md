@@ -40,9 +40,9 @@ ____
 
 |Número |Desafio                       |Resolução     | Entrega  |
 |------ |------------------------------|------------  |--------- |
-| 01    |  Intervalo                   |   💻 Aqui    |         |
-| 02    |  Dominó                      |   💻 Aqui    |   ✔    |
-| 03    |  Seleção de indice do vetor  |   💻 Aqui    |         |
+| 01    |  Intervalo                   |   💻 [Aqui](https://github.com/CarolGazulha/CGS/blob/master/src/Intervalo.java)    |   ✔     |
+| 02    |  Dominó                      |   💻 [Aqui](https://github.com/CarolGazulha/CGS/blob/master/src/Domino.java)       |   ✔    |
+| 03    |  Seleção de indice do vetor  |   💻 [Aqui](https://github.com/CarolGazulha/CGS/blob/master/src/Main.java)         |   ✔    |        
 
 
 
@@ -53,9 +53,9 @@ _______
 
 |Número |Desafio                       |Resolução     | Entrega  |
 |------ |------------------------------|------------  |--------- |
-| 01    |  Esfera                      |   💻 Aqui    |         |
-| 02    |  Deu a louca no gerente      |   💻 Aqui    |         |
-| 03    |  Percentual de eleitores     |   💻 Aqui    |         |
+| 01    |  Esfera                      |   💻 [Aqui](https://github.com/CarolGazulha/CGS/blob/master/src/Esfera.java)                  |    ✔    |         
+| 02    |  Deu a louca no gerente      |   💻 [Aqui](https://github.com/CarolGazulha/CGS/blob/master/src/Gerente.java)                 |    ✔    |       
+| 03    |  Percentual de eleitores     |   💻 [Aqui](https://github.com/CarolGazulha/CGS/blob/master/src/Percentual_Eleitores.java)    |    ✔    |     
 
 
 ## 🖱 Abstraindo um Bootcamp Usando Orientação a Objetos em Java
