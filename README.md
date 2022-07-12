@@ -60,14 +60,16 @@ _______
 
 ## 🖱 Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
-_______________
-
-## 🔗 Links importantes
-
+ * [Projeto](https://github.com/CarolGazulha/Projeto.Desafio.POO)
 
 ________________
 
 ## 🔍 Referências
+
+[Cursos Dio](https://www.dio.me/sign-in)
+
+[Curso Java primeiros passos](https://www.udemy.com/share/101B3G3@_T3zcKUNwx7HSLiZ4e_Tje4i1xgwLrYtc3NPf3PLZa0p3KBYEjNl5xF_IxJUzYVcjQ==/)
+
 
 _______________
 ## 🧩 Contribuição
@@ -75,7 +77,7 @@ Este repositório foi criado com intuito de compartilhar meus estudos e o que ve
 Você pode contribuir com ele...Fique à vontade!
 
 
- * Se o conteúdo aqui te ajudou de alguma forma  
+ * Se gostou do projeto  
 ⭐ no projeto 
  
 * Caso encontre algum erro 
