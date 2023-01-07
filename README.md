@@ -71,15 +71,6 @@ ________________
 [Curso Java primeiros passos](https://www.udemy.com/share/101B3G3@_T3zcKUNwx7HSLiZ4e_Tje4i1xgwLrYtc3NPf3PLZa0p3KBYEjNl5xF_IxJUzYVcjQ==/)
 
 
-_______________
-## 🧩 Contribuição
-Este repositório foi criado com intuito de compartilhar meus estudos e o que venho aprendendo.  
-Você pode contribuir com ele...Fique à vontade! 
-
-* Caso encontre algum erro ⚠ vou adorar saber para que possa evoluir
-
-
-* Se gostou do projeto  ⭐ no projeto 
 ___
 ![Badge Linkedin](https://img.shields.io/badge/Rede-Linkedin-blue)
   <details><summary>Linkedin</summary>
